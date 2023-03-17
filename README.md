@@ -32,8 +32,8 @@ $api = new KintoneApi(new Client([
 ## レコードを取得
 
 ```php
-$appId  = '32'   // アプリID
-$id     = '165'  // レコード番号
+$appId  = '32';  // アプリID
+$id     = '165'; // レコード番号
 $record = $api->record()->get($appId, $id);
 ```
 
