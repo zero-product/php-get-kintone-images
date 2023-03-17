@@ -1,4 +1,4 @@
-# PHP で画像を取得、表示
+# PHP で kintone 上の画像を取得、表示
 
 ## "Cybozu HTTP client for PHP"インストール
 
